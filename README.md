@@ -27,10 +27,10 @@ python gmail_client.py
 
 - Repo
 mcp-gmail-personal-app/
-├── credentials.json           # Your Google OAuth2 credentials (downloaded from Google Cloud)
-├── token.json                 # Automatically created after first auth
-├── gmail_mcp_server.py        # MCP Gmail Server code (runs MCP server)
-├── gmail_client.py            # Simple MCP client to fetch & reply emails
-├── README.md                  # Setup and usage instructions
-└── requirements.txt           # Python dependencies
+credentials.json           # Your Google OAuth2 credentials (downloaded from Google Cloud)
+token.json                 # Automatically created after first auth
+gmail_mcp_server.py        # MCP Gmail Server code (runs MCP server)
+gmail_client.py            # Simple MCP client to fetch & reply emails
+README.md                  # Setup and usage instructions
+requirements.txt           # Python dependencies
 
