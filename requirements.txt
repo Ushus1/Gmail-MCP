@@ -1,0 +1,5 @@
+gmail-mcp-server
+google-auth
+google-auth-oauthlib
+flask
+requests
